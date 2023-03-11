@@ -11,7 +11,7 @@ const Single = () => {
       <div className="singleContainer">
         <Navbar />
         <div className="top">
-          <div className="left">
+          <div className="left">zz
             <div className="editButton">Edit</div>
             <h1 className="title">Information</h1>
             <div className="item">
