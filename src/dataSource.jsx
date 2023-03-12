@@ -120,4 +120,4 @@ export const userColumns = [
       status: "active",
       age: 65,
     },
-  ];s
+  ];

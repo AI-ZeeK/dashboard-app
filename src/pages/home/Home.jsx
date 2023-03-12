@@ -10,7 +10,7 @@ const Home = () => {
   return (
     <div className="home">
       <Sidebar />
-      <div className="homeContainer">s
+      <div className="homeContainer">
         <Navbar />
         <div className="widgets">
           <Widget type="user" />
